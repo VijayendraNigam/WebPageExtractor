@@ -1,4 +1,4 @@
-package main.java.com.vn.wpe.common;
+package com.vn.wpe.common;
 
 import java.util.Collections;
 import java.util.LinkedHashMap;
